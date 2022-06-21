@@ -25,8 +25,7 @@ body {
 }
 
 #container .qr_code {
-    background: url(./images/image-qr-code.png) no-repeat center center/cover;
-    /* border: 2px solid green; */
+    background: url(/images/image-qr-code.png) no-repeat center center/cover;
     border-radius: 15px;
     height: 250px;
     margin: 15px;
