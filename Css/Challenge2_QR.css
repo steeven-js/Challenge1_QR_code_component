@@ -25,10 +25,14 @@ body {
 }
 
 #container .qr_code {
-    background: url(/images/image-qr-code.png) no-repeat center center/cover;
-    border-radius: 15px;
     height: 250px;
     margin: 15px;
+}
+
+#container .qr_code img {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
 }
 
 #container .info_1 {
