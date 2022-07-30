@@ -1,4 +1,4 @@
-echo "# Challenge2_QR_code_component"  
+# Challenge2_QR_code_component
 
 ```
 git init
